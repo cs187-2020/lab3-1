@@ -1,2 +1,1 @@
 nltk
-otter-grader == 1.0.0
